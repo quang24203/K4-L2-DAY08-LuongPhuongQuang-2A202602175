@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+reports/BLIND_SCAN.md text eol=crlf

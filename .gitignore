@@ -7,5 +7,7 @@ runs/
 *.onnx
 day8_data.zip
 day8_round*_out.zip
+day8_round*_out/
+round*_*.zip
 to_label/
 .agent/
